@@ -1,0 +1,307 @@
+2025-04-01 15:43:45,988 - INFO - Starting scrape for 8353 days from 2002-05-20 to 2025-04-01
+2025-04-01 15:43:46,035 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,035 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,037 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,038 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,040 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,040 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,040 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,042 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:46,179 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,184 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,197 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,228 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,427 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,430 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,656 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,656 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,657 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,657 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,657 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,659 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,659 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,659 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,659 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,680 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,680 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,743 - INFO - There is no [linux64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-04-01 15:43:46,743 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:46,872 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,874 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,875 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,875 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,875 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,876 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,876 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,877 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,877 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,892 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,894 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,894 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,899 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,900 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:46,902 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,903 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,904 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:46,904 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:47,026 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:47,026 - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-01 15:43:47,028 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:47,028 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:47,028 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:47,028 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/linux64/chromedriver-linux64.zip
+2025-04-01 15:43:47,497 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,498 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,499 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,501 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,504 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,504 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,510 - INFO - Driver downloading response is 200
+2025-04-01 15:43:47,868 - INFO - Driver downloading response is 200
+2025-04-01 15:43:51,874 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:52,107 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:43:53,732 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:53,745 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:53,880 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:53,884 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:43:53,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:53,977 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:54,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:54,400 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:54,474 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:54,497 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:43:54,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:54,526 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:54,587 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+2025-04-01 15:43:54,587 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+2025-04-01 15:43:55,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:55,800 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:43:56,452 - ERROR - Error on 2002-05-24: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-01 15:43:56,453 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b761a06b750>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/50b984acc3697b6afd64d71901313a6b
+2025-04-01 15:43:56,453 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b761a06b610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/50b984acc3697b6afd64d71901313a6b
+2025-04-01 15:43:56,453 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619fb2060>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/50b984acc3697b6afd64d71901313a6b
+2025-04-01 15:43:56,461 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:56,541 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:56,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:56,803 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:43:57,925 - INFO - Started scraping 2002-05-29
+2025-04-01 15:43:57,985 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:58,190 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:43:58,200 - ERROR - Error on 2002-05-26: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-01 15:43:58,201 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b761a06b750>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2c23e003936afb102e3d7d120e99e6c0
+2025-04-01 15:43:58,201 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b761a06b610>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2c23e003936afb102e3d7d120e99e6c0
+2025-04-01 15:43:58,201 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619fb2190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2c23e003936afb102e3d7d120e99e6c0
+2025-04-01 15:43:58,213 - INFO - ====== WebDriver manager ======
+2025-04-01 15:43:58,350 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:58,514 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:43:59,201 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver-linux64/chromedriver] found in cache
+2025-04-01 15:44:00,117 - INFO - Started scraping 2002-05-25
+2025-04-01 15:44:00,267 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:00,376 - INFO - Driver has been saved in cache [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165]
+2025-04-01 15:44:00,683 - INFO - Started scraping 2002-05-21
+2025-04-01 15:44:01,027 - ERROR - Error on 2002-05-29: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-01 15:44:01,029 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619df8050>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/061b17f9b88a5eaf5904a62f34c7d947
+2025-04-01 15:44:01,030 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619df82d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/061b17f9b88a5eaf5904a62f34c7d947
+2025-04-01 15:44:01,030 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619fb2780>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/061b17f9b88a5eaf5904a62f34c7d947
+2025-04-01 15:44:01,057 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:01,108 - INFO - Started scraping 2002-05-30
+2025-04-01 15:44:01,164 - INFO - Started scraping 2002-05-28
+2025-04-01 15:44:01,239 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:01,334 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:01,493 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:03,642 - INFO - Started scraping 2002-05-31
+2025-04-01 15:44:05,920 - INFO - Started scraping 2002-05-20
+2025-04-01 15:44:08,304 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-25.csv
+2025-04-01 15:44:08,930 - INFO - Started scraping 2002-05-23
+2025-04-01 15:44:08,944 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-21.csv
+2025-04-01 15:44:09,051 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:09,166 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-30.csv
+2025-04-01 15:44:09,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,233 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:09,277 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,335 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:09,353 - INFO - Started scraping 2002-06-01
+2025-04-01 15:44:09,376 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:09,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,545 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:09,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,628 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:09,693 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:10,125 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-28.csv
+2025-04-01 15:44:10,264 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:10,417 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:10,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:10,528 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:12,050 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-31.csv
+2025-04-01 15:44:12,115 - INFO - ====== WebDriver manager ======
+2025-04-01 15:44:12,259 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:12,392 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:44:12,474 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:44:13,638 - INFO - Started scraping 2002-06-02
+2025-04-01 15:44:14,097 - INFO - Started scraping 2002-06-04
+2025-04-01 15:44:14,267 - INFO - Started scraping 2002-06-05
+2025-04-01 15:44:15,151 - INFO - Started scraping 2002-06-03
+2025-04-01 15:44:15,676 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-20.csv
+2025-04-01 15:44:15,750 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,456 - INFO - Starting scrape for 8353 days from 2002-05-20 to 2025-04-01
+2025-04-01 15:45:20,485 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,486 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,486 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,486 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,486 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,486 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,489 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,489 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:20,610 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,614 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,614 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,627 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,628 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,667 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,671 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,672 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,689 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,693 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:20,731 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,733 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,733 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,733 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,733 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,741 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,751 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:20,758 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:21,585 - INFO - Started scraping 2002-05-25
+2025-04-01 15:45:25,041 - INFO - Started scraping 2002-05-20
+2025-04-01 15:45:26,465 - INFO - Started scraping 2002-05-23
+2025-04-01 15:45:26,688 - INFO - Started scraping 2002-05-27
+2025-04-01 15:45:26,724 - INFO - Started scraping 2002-05-26
+2025-04-01 15:45:27,414 - INFO - Started scraping 2002-05-21
+2025-04-01 15:45:27,762 - INFO - Started scraping 2002-05-22
+2025-04-01 15:45:28,692 - INFO - Started scraping 2002-05-24
+2025-04-01 15:45:34,739 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-20.csv
+2025-04-01 15:45:34,810 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:34,999 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:35,060 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:35,123 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:35,389 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-25.csv
+2025-04-01 15:45:35,469 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:35,617 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:35,676 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:35,774 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-23.csv
+2025-04-01 15:45:35,782 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:35,842 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:35,878 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-26.csv
+2025-04-01 15:45:35,981 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:36,013 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,140 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:36,197 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,346 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:36,393 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-27.csv
+2025-04-01 15:45:36,475 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:36,671 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,801 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:36,909 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-21.csv
+2025-04-01 15:45:36,912 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:36,979 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:37,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:37,393 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-22.csv
+2025-04-01 15:45:37,458 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:37,558 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:37,571 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:37,644 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-24.csv
+2025-04-01 15:45:37,670 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:37,672 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:37,690 - INFO - Started scraping 2002-06-01
+2025-04-01 15:45:37,716 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:37,888 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:38,105 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:38,406 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:38,443 - INFO - Started scraping 2002-05-28
+2025-04-01 15:45:38,785 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:39,131 - INFO - Started scraping 2002-06-04
+2025-04-01 15:45:40,564 - INFO - Started scraping 2002-05-30
+2025-04-01 15:45:41,073 - INFO - Started scraping 2002-05-29
+2025-04-01 15:45:43,158 - INFO - Started scraping 2002-06-02
+2025-04-01 15:45:43,214 - INFO - Started scraping 2002-05-31
+2025-04-01 15:45:43,977 - INFO - Started scraping 2002-06-03
+2025-04-01 15:45:46,805 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-28.csv
+2025-04-01 15:45:46,867 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:47,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:47,069 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:47,127 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:50,057 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-30.csv
+2025-04-01 15:45:50,116 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:50,251 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:50,447 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-29.csv
+2025-04-01 15:45:50,503 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:50,545 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:50,598 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:50,627 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:50,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:50,735 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:51,682 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-02.csv
+2025-04-01 15:45:51,739 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:51,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:51,865 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-04.csv
+2025-04-01 15:45:51,921 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:51,953 - INFO - Saved data to custom_output_folder/weather_osijek_2002-05-31.csv
+2025-04-01 15:45:52,003 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,008 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:52,032 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,058 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:52,084 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,135 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:52,138 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-03.csv
+2025-04-01 15:45:52,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,195 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:52,225 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:52,344 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-01.csv
+2025-04-01 15:45:52,355 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,406 - INFO - ====== WebDriver manager ======
+2025-04-01 15:45:52,433 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,491 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:52,561 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,624 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:45:52,683 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:45:55,793 - INFO - Started scraping 2002-06-06
+2025-04-01 15:45:55,953 - INFO - Started scraping 2002-06-05
+2025-04-01 15:45:57,447 - INFO - Started scraping 2002-06-09
+2025-04-01 15:45:57,584 - INFO - Started scraping 2002-06-11
+2025-04-01 15:45:58,674 - INFO - Started scraping 2002-06-08
+2025-04-01 15:45:58,885 - INFO - Started scraping 2002-06-07
+2025-04-01 15:45:59,041 - INFO - Started scraping 2002-06-12
+2025-04-01 15:45:59,131 - INFO - Started scraping 2002-06-10
+2025-04-01 15:46:06,193 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-06.csv
+2025-04-01 15:46:06,257 - INFO - ====== WebDriver manager ======
+2025-04-01 15:46:06,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:46:06,489 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:46:06,549 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:46:06,549 - INFO - Saved data to custom_output_folder/weather_osijek_2002-06-05.csv
+2025-04-01 15:46:06,617 - INFO - ====== WebDriver manager ======
+2025-04-01 15:46:06,820 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:46:06,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-01 15:46:06,948 - INFO - Driver [/home/domagoj/.wdm/drivers/chromedriver/linux64/134.0.6998.165/chromedriver] found in cache
+2025-04-01 15:46:07,579 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7b7619fb35c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/2971798e43aed2bdcf5d76a403de14d3

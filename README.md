@@ -1,3 +1,3 @@
 # cromine
 
-work in progress project
+Web scraping information about croatia
